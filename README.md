@@ -19,7 +19,7 @@ pip install requests mutagen
 1. Clone or download this repository.
 2. Open the script and update the `ziel_ordner` variable at the bottom with the path to your MP3 files:
    ```python
-   ziel_ordner = r"C:\Your\Music\Folder"
+   target_folder = r"C:\Your\Music\Folder"
    ```
 3. Run the script inside your terminal or virtual environment:
    ```bash
